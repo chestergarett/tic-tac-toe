@@ -4,6 +4,8 @@ view site here:
 
 https://chestergarett-tictactoe-8cbf72.netlify.app
 
+view issues tab, to check the ongoing bugs for fixing and new features to be deployed.
+
 if you encountered any bugs, please let me know. for better functionaliy and experience, turn on audio.
 
 __________________________________________________________________________________________________________
